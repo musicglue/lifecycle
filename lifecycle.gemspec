@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Lifecycle::VERSION
   spec.authors       = ["John Maxwell"]
   spec.email         = ["john@musicglue.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Lifecycle is an abstraction for dealing with asynchronously updating related events.}
+  spec.summary       = %q{Lifecycle is an abstraction for dealing with asynchronously updating related events.}
+  spec.homepage      = "http://musicglue.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
