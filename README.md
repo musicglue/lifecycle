@@ -1,6 +1,6 @@
 # Lifecycle
 
-TODO: Write a gem description
+Lifecycle does not yet work, it really isn't even alpha software. In fact, it doesn't do anything.
 
 ## Installation
 
